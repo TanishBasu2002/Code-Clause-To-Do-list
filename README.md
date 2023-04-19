@@ -25,10 +25,8 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 
 ## Credits
 
-This project was created by Diwakar. Feel free to reach out to me at diwkr14@gmail.com with any questions or feedback.
+This project was created by Tanish Basu. Feel free to reach out to me at tanishbasu50@gmail.com or <a href="https://tanish-basu-portfolio.netlify.app/">Visit </a> with any questions or feedback.
 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
-
